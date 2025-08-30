@@ -1,0 +1,5 @@
+backend/media
+*/.idea
+*/__pycache__
+.idea
+*.pyc
