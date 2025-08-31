@@ -3,3 +3,4 @@ backend/media
 */__pycache__
 .idea
 *.pyc
+#backend/application/settings.py
